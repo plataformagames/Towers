@@ -1,33 +1,47 @@
-# Tower
+# Game Name
 
 ## Description:
-   Towers of Madness é um tower defense no qual você deve proteger os últimos estudantes saudáveis da UnB de um Mal que foi despertado e que está infectando alunos de diversos cursos.
+   Breve descrição do jogo. Os dados de cada tópico devem conter um tab em seu início. Obedeça a formatação exata deste template.
 
 ## Version:
-   3.0
+   Versão do jogo. Exemplo: 1.0, 2.0...
 
 ## Year:
-   2017
+   Ano de lançamento do jogo.
 
 ## Repository:
-   https://github.com/unbgames/TowersOfMadness
+   Link do repositório oficial do jogo.
+
+## Awards:
+   - Melhor jogo da categoria
+   - Melhor jogabilidade
+
+## Gallery:
+### Cover Image:
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></p>
+
+### Carousel Gallery:
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></p>
+
+### Image Gallery:
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
 
 ## Genre:
    - Rpg
    - Luta
    - Guerra
-   
-### Development:
-   - Daniel Barbosa
-   - Francisco Anderson Bezerra Rodrigues
-   - Gabriel Barbosa
 
-### Art:
+### Developers:
+   - Desenvolvedor 1
+   - Desenvolvedor 2
+   - Desenvolvedor N
+
+### Designers:
    - Artista 1
    - Artista 2
    - Artista N
 
-### Music:
+### Musicians:
    - Músico 1
    - Músico 2
    - Músico N
