@@ -21,12 +21,14 @@
    <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></p>
 
 ### Carousel Gallery:
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.jpg"></p>
    <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
 
 ### Image Gallery:
    <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
-   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
-   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.jpg"></p>
 
 ## Genre:
    - Rpg
