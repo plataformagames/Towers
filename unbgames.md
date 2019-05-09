@@ -1,13 +1,13 @@
-# Game Name
+# Towers
 
 ## Description:
-   Breve descrição do jogo. Os dados de cada tópico devem conter um tab em seu início. Obedeça a formatação exata deste template.
+   Nova descrição.
 
 ## Version:
-   Versão do jogo. Exemplo: 1.0, 2.0...
+   2.0
 
 ## Year:
-   Ano de lançamento do jogo.
+   2017
 
 ## Repository:
    Link do repositório oficial do jogo.
